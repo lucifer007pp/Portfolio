@@ -1,0 +1,27 @@
+[
+    {
+        "title": "SoundSpectrem",
+        "imagesrc": "projects/soundspectrem.png",
+        "description": "This is a project made to understand HTML CSS Js",
+        "skills": ["HTML", "CSS", "Js"],
+        "demo": "https://github.com/lucifer007pp/SoundSpectrem",
+        "source": "https://github.com/lucifer007pp/SoundSpectrem"
+    },
+
+    {
+        "title": "News Web App",
+        "imagesrc":"projects/news.png",
+        "description":"This is a project made to learn Node and fetch APIS",
+        "skills": ["HTML", "CSS", "Js", "expressJs"],
+        "demo": "https://github.com/lucifer007pp/News-Web",
+        "source":"https://github.com/lucifer007pp/News-Web"
+    },
+    {
+        "title": "React Todo List",
+        "imagesrc":"projects/todo.png",
+        "description":"This is a project made to learn React",
+        "skills": ["React", "Js"],
+        "demo":"https://github.com/lucifer007pp/TodoList-React",
+        "source":"https://github.com/lucifer007pp/TodoList-React"
+    }
+]

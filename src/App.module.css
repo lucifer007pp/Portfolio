@@ -1,0 +1,12 @@
+@import "./vars.css";
+
+.App {
+    background-color: var(--color-bg);
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+html{
+    scroll-behavior: smooth;
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "role": "Freelancer",
+        "organisation": "fiverr.",
+        "startDate": "Mar, 2023",
+        "imagesrc": "history/fiverr.png",
+        "description": "Worked as a part time freelancer"
+    },
+
+    {
+        "role": "Freelancer",
+        "organisation": "UpWork",
+        "startDate": "Aug, 2023",
+        "imagesrc": "history/upwork.png",
+        "description": "Worked as a part time freelancer"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "title": "HTML",
+        "imagesrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imagesrc": "skills/css.png"
+    },
+    {
+        "title": "React",
+        "imagesrc": "skills/react.png"
+    },
+    {
+        "title": "Nextjs",
+        "imagesrc": "skills/nextjs.png"
+    },
+    {
+        "title": "Node",
+        "imagesrc": "skills/node.png"
+    },
+    {
+        "title": "Mongodb",
+        "imagesrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Figma",
+        "imagesrc": "skills/figma.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imagesrc": "skills/bootstrap.png"
+    }
+]
